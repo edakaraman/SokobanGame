@@ -3,5 +3,12 @@
  <h2> <i> Images from the game</i> </h2>
  <hr>
 
-![2be313ea-26f9-423d-aa1f-1d64dae269d9](https://user-images.githubusercontent.com/95571155/173337351-49277a4a-f601-411d-b6c4-8d3772d0d450.png)
-![daf101af-ebf9-4372-8e6b-3fb08f1614c9](https://user-images.githubusercontent.com/95571155/173337365-33b58da5-8859-4658-b267-7bdbd11a1c0c.png)
+<h3> Login Screen </h3>
+
+![Ekran görüntüsü 2022-06-13 141650](https://user-images.githubusercontent.com/95571155/173342542-128add74-ba0f-4372-9821-b789346413bb.jpeg)
+
+<h2> In the game </h2>
+
+![Ekran görüntüsü 2022-06-13 141722](https://user-images.githubusercontent.com/95571155/173342599-6ac15678-d6dd-46f7-bb29-fafdc5334738.jpeg)
+
+
