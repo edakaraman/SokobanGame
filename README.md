@@ -1,4 +1,5 @@
 # Unity Game
+This game is made with C# language on Unity.
 
  <h2> <i> Images from the game</i> </h2>
  <hr>
